@@ -1,0 +1,59 @@
+class Solution {
+    public int maxSumMinProduct(int[] arr) {
+        long ps[]=new long[arr.length];
+        long sum=0;
+        int k=0;
+        for(int i:arr){
+            sum+=i;
+            ps[k++]=sum;
+        }
+        Stack<Integer> s=new Stack<>();
+        int lse[]=new int[arr.length]; 
+        int rse[]=new int[arr.length];
+        lse[0]=-1;
+        s.push(0);
+        for(int i=1;i<arr.length;i++){
+            while(!s.isEmpty() && arr[s.peek()]>arr[i]){
+                s.pop();
+            }
+            if(s.isEmpty()){
+                lse[i]=-1;
+            }
+            else{
+                lse[i]=s.peek();
+            }
+            s.push(i);
+        }
+        s.clear();
+        s.push(arr.length-1);
+        rse[arr.length-1]=arr.length-1;
+        for(int i=arr.length-2;i>=0;i--){
+            while(!s.isEmpty() && arr[s.peek()]>=arr[i]){
+                s.pop();
+            }
+             if(s.isEmpty()){
+                rse[i]=arr.length-1;
+            }
+            else{
+                rse[i]=s.peek()-1;
+            }
+            s.push(i);
+        }
+        long ans=0;
+        for(int i=0;i<arr.length;i++){
+            int r=rse[i];
+            int l=lse[i];
+            long rangeSum=ps[r];
+            if(l!=-1){           
+                rangeSum=ps[r]-ps[l];
+            }
+            long pro=arr[i]*rangeSum;
+            ans=Math.max(pro,ans);
+
+
+
+        }
+        return (int)(ans%1000000007);
+
+    }
+}
