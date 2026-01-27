@@ -1,24 +1,23 @@
 class Solution {
-    public int find(String s,int idx,int c,char prev){
+    public int find(char prev,String s,int idx){
         if(idx==s.length()){
             return 0;
         }
-        if(s.charAt(idx)==prev){
-            if(prev=='1'){
-                return 1+find(s,idx+1,c+1,'0');
+        if(prev==s.charAt(idx)){
+            if(prev=='0'){
+                return 1+find('1',s,idx+1);
             }
             else{
-                return 1+find(s,idx+1,c+1,'1');
-
+                return 1+find('0',s,idx+1);
             }
 
         }
-        return find(s,idx+1,c,s.charAt(idx));
+        return find(s.charAt(idx),s,idx+1);
     }
     public int minOperations(String s) {
-        int ans1=find(s,0,0,'1');
-        int ans2=find(s,0,0,'0');
-        return Math.min(ans1,ans2);
+        int noChange=find('1',s,0);
+        int change=find('0',s,0);
+        return Math.min(change,noChange);
         
     }
 }
