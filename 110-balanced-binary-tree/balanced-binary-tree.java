@@ -34,7 +34,15 @@ class Solution {
         if(Math.abs(lh-rh)>1){
             return false;
         }
-        return find(root.left) && find(root.right);
+        boolean left=find(root.left);
+        if(!left){
+            return false;
+        }
+        boolean right=find(root.right);
+        if(!right){
+            return false;
+        }
+        return left && right;
     }
     
     public boolean isBalanced(TreeNode root) {
