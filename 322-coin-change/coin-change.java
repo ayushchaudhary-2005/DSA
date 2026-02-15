@@ -1,9 +1,9 @@
 class Solution {
     public long find(int arr[],int amount,int idx,long dp[][]){
+        if(amount==0){
+            return 0;
+        }
         if(idx==arr.length){
-            if(amount==0){
-                return 0;
-            }
             return Integer.MAX_VALUE;
         }
         if(dp[idx][amount]!=-1){
