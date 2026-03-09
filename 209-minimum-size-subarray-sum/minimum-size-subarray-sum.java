@@ -9,9 +9,7 @@ class Solution {
 
 
             while(s<arr.length && cs>=target){
-                if(cs>=target){
                 ans=Math.min(ans,e-s+1);
-            }
                 cs=cs-arr[s];
                 s++;
             }
