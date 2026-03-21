@@ -14,27 +14,21 @@
  * }
  */
 class Solution {
-    public void find(TreeNode root,ArrayList<String> al,String curr){
+    public int find(TreeNode root,int num){
         if(root==null){
-            return;
+            return 0;
         }
+        num=num*10+root.val;
         if(root.left==null && root.right==null){
-            curr=curr+String.valueOf(root.val);
-            al.add(curr);
-            return;
+            return num;
         }
-        find(root.left,al,curr+String.valueOf(root.val));
-        find(root.right,al,curr+String.valueOf(root.val));
+        int left=find(root.left,num);
+        int right=find(root.right,num);
+        return left+right;
     }
     public int sumNumbers(TreeNode root) {
-        ArrayList<String> al=new ArrayList<>();
-        find(root,al,"");
-        int ans=0;
-        for(int i=0;i<al.size();i++){
-            int curr=Integer.parseInt(al.get(i));
-            ans=ans+curr;
-        }
-        return ans;
+        return find(root,0);
+
 
         
     }
