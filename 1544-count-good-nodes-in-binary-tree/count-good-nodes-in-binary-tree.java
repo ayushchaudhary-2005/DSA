@@ -13,44 +13,26 @@
  *     }
  * }
  */
-class Solution {
-    public ArrayList<Integer> find(TreeNode root,int target){
-        if(root==null){
-            return new ArrayList<>();
-        }
-        if(root.left==null && root.right==null){
-            ArrayList<Integer> al=new ArrayList<>();
-            al.add(root.val);
-            return al;
-        }
-        ArrayList<Integer> left=find(root.left,target);
-        ArrayList<Integer> right=find(root.right,target);
-        ArrayList al=new ArrayList<>();
-        if(left.size()>0){
-            for(int i=0;i<left.size();i++){
-                if(left.get(i)>=root.val && target<=left.get(i)){
-                    al.add(left.get(i));
-                }
 
-            }
-        }
-        if(right.size()>0){
-            for(int i=0;i<right.size();i++){
-                if(right.get(i)>=root.val && target<=right.get(i)){
-                    al.add(right.get(i));
-                }
-
-            }
-
-        }
-        al.add(root.val);
-        return al;
-
-
-    }
+ class Solution {
     public int goodNodes(TreeNode root) {
-        ArrayList<Integer> nal=find(root,root.val);
-        return nal.size();
-        
+        return dfs(root, root.val); // start DFS with root value
+    }
+
+    private int dfs(TreeNode node, int maxSoFar) {
+        if (node == null) return 0; // base case
+
+        int count = 0;
+        if (node.val >= maxSoFar) count = 1; // good node?
+
+        // update max value seen so far
+        maxSoFar = Math.max(maxSoFar, node.val);
+
+        // recurse left and right
+        count += dfs(node.left, maxSoFar);
+        count += dfs(node.right, maxSoFar);
+
+        return count;
     }
 }
+
