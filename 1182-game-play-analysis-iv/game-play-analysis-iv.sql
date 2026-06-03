@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT ROUND(SUM(DATEDIFF(a.event_date,b.min_date)=1)/(SELECT COUNT(DISTINCT player_id) FROM Activity),2) as fraction FROM Activity a JOIN (SELECT player_id,min(event_date) as min_date FROM Activity GROUP BY player_id) AS b ON a.player_id=b.player_id;
