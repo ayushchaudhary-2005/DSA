@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+SELECT s.product_id, s.year as first_year,s.quantity,s.price FROM Sales s JOIN (SELECT product_id,MIN(year) AS year FROM Sales GROUP BY product_id) d ON s.product_id=d.product_id AND s.year=d.year; 
