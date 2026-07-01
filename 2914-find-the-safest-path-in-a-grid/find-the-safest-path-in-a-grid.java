@@ -59,6 +59,6 @@ class Solution {
             }
         }
 
-        return A[n - 1][n - 1] ;
+        return A[n - 1][n - 1]-1 ;
     }
 }
