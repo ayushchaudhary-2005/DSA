@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0459-repeated-substring-pattern](https://github.com/ayushchaudhary-2005/DSA/tree/master/0459-repeated-substring-pattern) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/ayushchaudhary-2005/DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/ayushchaudhary-2005/DSA/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
