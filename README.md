@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0688-knight-probability-in-chessboard](https://github.com/ayushchaudhary-2005/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/ayushchaudhary-2005/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
