@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ayushchaudhary-2005/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ayushchaudhary-2005/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Heap (Priority Queue)
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/ayushchaudhary-2005/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## String Matching
 |  |
 | ------- |
