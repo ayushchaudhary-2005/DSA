@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushchaudhary-2005/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ayushchaudhary-2005/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ayushchaudhary-2005/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/ayushchaudhary-2005/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
+| [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## String Matching
 |  |
@@ -135,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0491-non-decreasing-subsequences) |
+| [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0491-non-decreasing-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0491-non-decreasing-subsequences) |
+| [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ayushchaudhary-2005/DSA/tree/master/0322-coin-change) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
