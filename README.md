@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ayushchaudhary-2005/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0410-split-array-largest-sum) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0410-split-array-largest-sum) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/ayushchaudhary-2005/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Counting Sort
 |  |
 | ------- |
