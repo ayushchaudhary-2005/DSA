@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ayushchaudhary-2005/DSA/tree/master/0322-coin-change) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ayushchaudhary-2005/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Bitmask
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushchaudhary-2005/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ayushchaudhary-2005/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushchaudhary-2005/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ayushchaudhary-2005/DSA/tree/master/1376-time-needed-to-inform-all-employees) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushchaudhary-2005/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## DP on Trees
 |  |
