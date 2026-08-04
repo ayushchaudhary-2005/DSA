@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ayushchaudhary-2005/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Heap (Priority Queue)
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Enumeration
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Binary Search
 |  |
