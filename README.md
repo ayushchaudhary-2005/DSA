@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0962-maximum-width-ramp](https://github.com/ayushchaudhary-2005/DSA/tree/master/0962-maximum-width-ramp) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0101-symmetric-tree) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0101-symmetric-tree) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0101-symmetric-tree) |
