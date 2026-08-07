@@ -14,27 +14,32 @@
  * }
  */
 class Solution {
-    public void find(TreeNode root,List<Integer> al,Stack<TreeNode> s){
-        while(!s.isEmpty()){
-            TreeNode curr=s.pop();
-            al.add(curr.val);
-            if(curr.right!=null){
-                s.push(curr.right);
-            }
-            if(curr.left!=null){
-                s.push(curr.left);
-            }
-        }
-    }
     public List<Integer> preorderTraversal(TreeNode root) {
-        if(root==null){
-            return new ArrayList<Integer>();
-        }
         List<Integer> ans=new ArrayList<>();
-        Stack<TreeNode> s=new Stack<>();
-        s.add(root);
-        find(root,ans,s);
+        while(root!=null){
+            if(root.left==null){
+                ans.add(root.val);;
+                root=root.right;
+            }
+            else{
+                TreeNode curr=root.left;
+                while(curr.right!=null && curr.right!=root){
+                    curr=curr.right;
+                }
+                if(curr.right==null){
+                    ans.add(root.val);
+                    curr.right=root;
+                    root=root.left;
+                }
+                else{
+                    curr.right=null;
+                    root=root.right;
+                }
+
+            }
+        }
         return ans;
+
         
     }
 }
