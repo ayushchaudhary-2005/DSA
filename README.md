@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayushchaudhary-2005/DSA/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushchaudhary-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushchaudhary-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ayushchaudhary-2005/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -291,5 +295,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
