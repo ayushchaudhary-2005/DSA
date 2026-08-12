@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ayushchaudhary-2005/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushchaudhary-2005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushchaudhary-2005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
@@ -304,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushchaudhary-2005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
