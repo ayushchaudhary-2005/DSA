@@ -1,15 +1,5 @@
 class Solution {
     public int maximumLengthSubstring(String s) {
-        int narr[]=new int[26];
-        for(int i=0;i<s.length();i++){
-            narr[s.charAt(i)-'a']++;
-        } 
-        int uniques=0;
-        for(int i:narr){
-            if(i!=0){
-                uniques++;
-            }
-        }
         int arr[]=new int[26];
         int st=0;
         int e=0;
