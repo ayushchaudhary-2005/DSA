@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ayushchaudhary-2005/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2938-separate-black-and-white-balls](https://github.com/ayushchaudhary-2005/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
