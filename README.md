@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushchaudhary-2005/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Greedy
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushchaudhary-2005/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Enumeration
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Breadth-First Search
 |  |
