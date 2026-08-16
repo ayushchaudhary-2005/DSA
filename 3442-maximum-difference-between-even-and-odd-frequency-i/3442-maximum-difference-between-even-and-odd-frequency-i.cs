@@ -7,20 +7,25 @@ public class Solution {
                 hm[ch]=1;
             }
             else{
-                hm[ch]=hm[ch]+1;
+               hm[ch]=hm[ch]+1;
             }
         }
-        int maxOddFreq=int.MinValue;
-        int minEvenFreq=int.MaxValue;
+        int maxOdd=int.MinValue;
+        int minEven=int.MaxValue;
         foreach(char ch in hm.Keys){
-            if(hm[ch]%2!=0 && hm[ch]>maxOddFreq){
-                maxOddFreq=hm[ch];
+            if(hm[ch]%2==0){
+                if(minEven>hm[ch]){
+                    minEven=hm[ch];
+                }
+
             }
-            if(hm[ch]%2==0 && hm[ch]<minEvenFreq){
-                minEvenFreq=hm[ch];
+            else{
+                if(maxOdd<hm[ch]){
+                    maxOdd=hm[ch];
+                }
             }
         }
-        return maxOddFreq-minEvenFreq;
+        return maxOdd-minEven;
         
     }
 }
