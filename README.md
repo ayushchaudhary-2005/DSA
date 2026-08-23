@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0233-number-of-digit-one](https://github.com/ayushchaudhary-2005/DSA/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayushchaudhary-2005/DSA/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/ayushchaudhary-2005/DSA/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushchaudhary-2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchaudhary-2005/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/ayushchaudhary-2005/DSA/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
