@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushchaudhary-2005/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ayushchaudhary-2005/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushchaudhary-2005/DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushchaudhary-2005/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 ## Enumeration
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/ayushchaudhary-2005/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushchaudhary-2005/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -357,10 +362,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushchaudhary-2005/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushchaudhary-2005/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
