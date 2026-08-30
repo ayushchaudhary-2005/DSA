@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-furthest-building-you-can-reach](https://github.com/ayushchaudhary-2005/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ayushchaudhary-2005/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ayushchaudhary-2005/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2938-separate-black-and-white-balls](https://github.com/ayushchaudhary-2005/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushchaudhary-2005/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ayushchaudhary-2005/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/ayushchaudhary-2005/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
