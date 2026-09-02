@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayushchaudhary-2005/DSA/tree/master/0009-palindrome-number) |
 | [0233-number-of-digit-one](https://github.com/ayushchaudhary-2005/DSA/tree/master/0233-number-of-digit-one) |
 | [0523-continuous-subarray-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushchaudhary-2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
