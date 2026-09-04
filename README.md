@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3784-minimum-deletion-cost-to-make-all-characters-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/3784-minimum-deletion-cost-to-make-all-characters-equal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3903-smallest-stable-index-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushchaudhary-2005/DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Heap (Priority Queue)
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Counting Sort
 |  |
 | ------- |
