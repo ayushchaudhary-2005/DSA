@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushchaudhary-2005/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/ayushchaudhary-2005/DSA/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/ayushchaudhary-2005/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ayushchaudhary-2005/DSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0491-non-decreasing-subsequences) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayushchaudhary-2005/DSA/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0403-frog-jump](https://github.com/ayushchaudhary-2005/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/0646-maximum-length-of-pair-chain) |
