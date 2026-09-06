@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushchaudhary-2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ayushchaudhary-2005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary-2005/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushchaudhary-2005/DSA/tree/master/0344-reverse-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ayushchaudhary-2005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0233-number-of-digit-one](https://github.com/ayushchaudhary-2005/DSA/tree/master/0233-number-of-digit-one) |
