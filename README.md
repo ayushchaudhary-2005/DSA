@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchaudhary-2005/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayushchaudhary-2005/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0940-distinct-subsequences-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ayushchaudhary-2005/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0688-knight-probability-in-chessboard](https://github.com/ayushchaudhary-2005/DSA/tree/master/0688-knight-probability-in-chessboard) |
 | [0845-longest-mountain-in-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/0845-longest-mountain-in-array) |
+| [0940-distinct-subsequences-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayushchaudhary-2005/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
