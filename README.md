@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0962-maximum-width-ramp](https://github.com/ayushchaudhary-2005/DSA/tree/master/0962-maximum-width-ramp) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2938-separate-black-and-white-balls](https://github.com/ayushchaudhary-2005/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushchaudhary-2005/DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## String
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/ayushchaudhary-2005/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1642-furthest-building-you-can-reach](https://github.com/ayushchaudhary-2005/DSA/tree/master/1642-furthest-building-you-can-reach) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayushchaudhary-2005/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushchaudhary-2005/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0410-split-array-largest-sum) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
 ## Backtracking
 |  |
