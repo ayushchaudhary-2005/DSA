@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0962-maximum-width-ramp](https://github.com/ayushchaudhary-2005/DSA/tree/master/0962-maximum-width-ramp) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayushchaudhary-2005/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0940-distinct-subsequences-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayushchaudhary-2005/DSA/tree/master/0983-minimum-cost-for-tickets) |
+| [1043-partition-array-for-maximum-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
