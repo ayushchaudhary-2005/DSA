@@ -1,42 +1,50 @@
 class Solution {
-    public boolean find(int arr[],long mid,int k){
+    public boolean isValid(int arr[],long val,int k){
         int parts=1;
         long cs=0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]+cs<=mid){
-                cs=cs+arr[i];
+            if(cs+arr[i]<=val){
+                cs+=arr[i];
             }
             else{
-                parts++;
                 cs=arr[i];
+                parts++;
             }
+            if(parts>k){
+                return false;
+            }
+
         }
-        if(parts<=k){
-            return true;
-        }
-        return false;
+        return true;
+
+    
+    
     }
-    public int splitArray(int[] arr, int k){
+
+
+    public int splitArray(int[] arr, int k) {
         long sum=0;
         int max=Integer.MIN_VALUE;
         for(int i:arr){
-            sum=sum+i;
             max=Math.max(max,i);
+            sum+=i;
         }
         long s=0;
         long e=sum;
-        int ans=-1;
+        long ans=Long.MAX_VALUE;
         while(s<=e){
             long mid=s+(e-s)/2;
-            if(mid>=max && find(arr,mid,k)){
-                ans=(int)mid;
+            if(mid>=max && isValid(arr,mid,k)){
+                ans=mid;
                 e=mid-1;
             }
             else{
                 s=mid+1;
             }
+
         }
-        return ans;
-    
+        return (int)ans;
+
+        
     }
 }
