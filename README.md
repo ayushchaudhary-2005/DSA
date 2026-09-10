@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ayushchaudhary-2005/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ayushchaudhary-2005/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/ayushchaudhary-2005/DSA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
+| [2050-parallel-courses-iii](https://github.com/ayushchaudhary-2005/DSA/tree/master/2050-parallel-courses-iii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/ayushchaudhary-2005/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayushchaudhary-2005/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
+| [2050-parallel-courses-iii](https://github.com/ayushchaudhary-2005/DSA/tree/master/2050-parallel-courses-iii) |
 | [2305-fair-distribution-of-cookies](https://github.com/ayushchaudhary-2005/DSA/tree/master/2305-fair-distribution-of-cookies) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/ayushchaudhary-2005/DSA/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## String Matching
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ayushchaudhary-2005/DSA/tree/master/0785-is-graph-bipartite) |
+| [2050-parallel-courses-iii](https://github.com/ayushchaudhary-2005/DSA/tree/master/2050-parallel-courses-iii) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -430,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/ayushchaudhary-2005/DSA/tree/master/0994-rotting-oranges) |
+## Topological Sort
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/ayushchaudhary-2005/DSA/tree/master/2050-parallel-courses-iii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/ayushchaudhary-2005/DSA/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
