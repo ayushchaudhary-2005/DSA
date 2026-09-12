@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/ayushchaudhary-2005/DSA/tree/master/0962-maximum-width-ramp) |
 | [0983-minimum-cost-for-tickets](https://github.com/ayushchaudhary-2005/DSA/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/ayushchaudhary-2005/DSA/tree/master/0994-rotting-oranges) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushchaudhary-2005/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchaudhary-2005/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0491-non-decreasing-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushchaudhary-2005/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ayushchaudhary-2005/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushchaudhary-2005/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
