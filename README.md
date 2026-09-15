@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushchaudhary-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0707-design-linked-list](https://github.com/ayushchaudhary-2005/DSA/tree/master/0707-design-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -459,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/ayushchaudhary-2005/DSA/tree/master/2050-parallel-courses-iii) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ayushchaudhary-2005/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
