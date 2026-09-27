@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushchaudhary-2005/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2121-intervals-between-identical-elements](https://github.com/ayushchaudhary-2005/DSA/tree/master/2121-intervals-between-identical-elements) |
+| [2374-node-with-highest-edge-score](https://github.com/ayushchaudhary-2005/DSA/tree/master/2374-node-with-highest-edge-score) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ayushchaudhary-2005/DSA/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushchaudhary-2005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ayushchaudhary-2005/DSA/tree/master/0785-is-graph-bipartite) |
 | [2050-parallel-courses-iii](https://github.com/ayushchaudhary-2005/DSA/tree/master/2050-parallel-courses-iii) |
+| [2374-node-with-highest-edge-score](https://github.com/ayushchaudhary-2005/DSA/tree/master/2374-node-with-highest-edge-score) |
 ## Graph Coloring
 |  |
 | ------- |
