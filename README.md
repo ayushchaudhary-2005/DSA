@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushchaudhary-2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/ayushchaudhary-2005/DSA/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/ayushchaudhary-2005/DSA/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushchaudhary-2005/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ayushchaudhary-2005/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushchaudhary-2005/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ayushchaudhary-2005/DSA/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushchaudhary-2005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushchaudhary-2005/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
