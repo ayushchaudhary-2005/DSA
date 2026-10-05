@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary-2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ayushchaudhary-2005/DSA/tree/master/0134-gas-station) |
+| [0164-maximum-gap](https://github.com/ayushchaudhary-2005/DSA/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayushchaudhary-2005/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/ayushchaudhary-2005/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary-2005/DSA/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushchaudhary-2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -532,4 +534,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ayushchaudhary-2005/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ayushchaudhary-2005/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushchaudhary-2005/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushchaudhary-2005/DSA/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushchaudhary-2005/DSA/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/ayushchaudhary-2005/DSA/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
