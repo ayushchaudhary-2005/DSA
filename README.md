@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ayushchaudhary-2005/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushchaudhary-2005/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/ayushchaudhary-2005/DSA/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/ayushchaudhary-2005/DSA/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/ayushchaudhary-2005/DSA/tree/master/0164-maximum-gap) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ayushchaudhary-2005/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ayushchaudhary-2005/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayushchaudhary-2005/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0491-non-decreasing-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [1723-find-minimum-time-to-finish-all-jobs](https://github.com/ayushchaudhary-2005/DSA/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
