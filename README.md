@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0403-frog-jump](https://github.com/ayushchaudhary-2005/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/ayushchaudhary-2005/DSA/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/ayushchaudhary-2005/DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/ayushchaudhary-2005/DSA/tree/master/0009-palindrome-number) |
 | [0233-number-of-digit-one](https://github.com/ayushchaudhary-2005/DSA/tree/master/0233-number-of-digit-one) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushchaudhary-2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/ayushchaudhary-2005/DSA/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/ayushchaudhary-2005/DSA/tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushchaudhary-2005/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushchaudhary-2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
