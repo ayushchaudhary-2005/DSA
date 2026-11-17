@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/0845-longest-mountain-in-array) |
 | [0962-maximum-width-ramp](https://github.com/ayushchaudhary-2005/DSA/tree/master/0962-maximum-width-ramp) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushchaudhary-2005/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2938-separate-black-and-white-balls](https://github.com/ayushchaudhary-2005/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/ayushchaudhary-2005/DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/ayushchaudhary-2005/DSA/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushchaudhary-2005/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushchaudhary-2005/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/ayushchaudhary-2005/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushchaudhary-2005/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushchaudhary-2005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayushchaudhary-2005/DSA/tree/master/1626-best-team-with-no-conflicts) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/ayushchaudhary-2005/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/ayushchaudhary-2005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ayushchaudhary-2005/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushchaudhary-2005/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ayushchaudhary-2005/DSA/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ayushchaudhary-2005/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/ayushchaudhary-2005/DSA/tree/master/2602-minimum-operations-to-make-all-array-elements-equal) |
