@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushchaudhary-2005/DSA/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushchaudhary-2005/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ayushchaudhary-2005/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayushchaudhary-2005/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ayushchaudhary-2005/DSA/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2938-separate-black-and-white-balls](https://github.com/ayushchaudhary-2005/DSA/tree/master/2938-separate-black-and-white-balls) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushchaudhary-2005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
